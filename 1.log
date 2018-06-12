@@ -1,0 +1,135 @@
+
+  bytes   pages size description
+--------- ----- ---- --------------------------------------------
+   262144    32 8192 allocating memory for b-tree...
+    65536     8 8192 allocating memory for virtual array...
+   262144    32 8192 allocating memory for name pointers...
+-----------------------------------------------------------------
+   589824            total memory allocated
+
+Loading processor module D:\BaiduNetdiskDownload\IDA 7.0\IDA_Pro_v7.0_Portable\procs\pc.dll for metapc...OK
+Autoanalysis subsystem has been initialized.
+B777F000: loaded [vdso]
+B7751000: loaded /system/lib/liblog.so
+B769E000: loaded /system/lib/libc.so
+B769A000: loaded /system/lib/libstdc++.so
+B7675000: loaded /system/lib/libm.so
+B7661000: loaded /system/lib/libcutils.so
+B7636000: loaded /system/lib/libutils.so
+B7629000: loaded /system/lib/libcorkscrew.so
+B7618000: loaded /system/lib/libgccdemangle.so
+B75C7000: loaded /system/lib/libbinder.so
+B73EE000: loaded /system/lib/libmemtrack.so
+B73EB000: loaded /system/lib/libhardware.so
+B7383000: loaded /system/lib/libz.so
+B734F000: loaded /system/lib/libexpat.so
+B7346000: loaded /system/lib/libnativehelper.so
+B72CA000: loaded /system/lib/libstlport.so
+B72BC000: loaded /system/lib/libnetutils.so
+B72A2000: loaded /system/lib/libui.so
+B729F000: loaded /system/lib/libsync.so
+B722C000: loaded /system/lib/libgui.so
+B7187000: loaded /system/lib/libEGL.so
+B70E1000: loaded /system/lib/libGLES_trace.so
+B70D5000: loaded /system/lib/libGLESv2.so
+B70A9000: loaded /system/lib/libinput.so
+B7055000: loaded /system/lib/libcamera_client.so
+B704C000: loaded /system/lib/libcamera_metadata.so
+B6BEE000: loaded /system/lib/libskia.so
+B6B6F000: loaded /system/lib/libft2.so
+B6B48000: loaded /system/lib/libpng.so
+B6AFD000: loaded /system/lib/libjpeg.so
+B6930000: loaded /system/lib/libicuuc.so
+B6929000: loaded /system/lib/libgabi++.so
+B66D2000: loaded /system/lib/libicui18n.so
+B65FB000: loaded /system/lib/libsqlite.so
+B65F1000: loaded /system/lib/libGLESv1_CM.so
+B65EB000: loaded /system/lib/libETC1.so
+B65E1000: loaded /system/lib/libhardware_legacy.so
+B65DC000: loaded /system/lib/libwpa_client.so
+B65C5000: loaded /system/lib/libselinux.so
+B6562000: loaded /system/lib/libsonivox.so
+B63F6000: loaded /system/lib/libcrypto.so
+B6399000: loaded /system/lib/libssl.so
+B62AB000: loaded /system/lib/libmedia.so
+B6288000: loaded /system/lib/libstagefright_foundation.so
+B6282000: loaded /system/lib/libaudioutils.so
+B627A000: loaded /system/lib/libspeexresampler.so
+B6274000: loaded /system/lib/libusbhost.so
+B6212000: loaded /system/lib/libharfbuzz_ng.so
+B618D000: loaded /system/lib/libhwui.so
+B613A000: loaded /system/lib/libRS.so
+B60E3000: loaded /system/lib/libbcc.so
+B6086000: loaded /system/lib/libbcinfo.so
+B5209000: loaded /system/lib/libLLVM.so
+B51DD000: loaded /system/lib/libRScpp.so
+86CEB000: loaded /system/lib/libdrmframework_jni.so
+86CE8000: loaded /system/lib/libstagefright_enc_common.so
+86B35000: loaded /system/lib/libconnectivitymanager.so
+86B30000: loaded /system/lib/libstagefright_yuv.so
+86B2A000: loaded /system/lib/libpowermanager.so
+865A2000: loaded /system/lib/libstagefright_avc_common.so
+8659D000: loaded /system/lib/libOpenSLES.so
+8631F000: loaded /system/lib/libjavacore.so
+84510000: loaded /system/lib/libjavacrypto.so
+844E8000: loaded /system/lib/libdrmframework.so
+84467000: loaded /system/lib/libmedia_jni.so
+842AF000: loaded /system/lib/libstagefright.so
+84284000: loaded /system/lib/libstagefright_omx.so
+8425A000: loaded /system/lib/libvorbisidec.so
+84236000: loaded /system/lib/libmtp.so
+84222000: loaded /system/lib/libexif.so
+8420F000: loaded /system/lib/libstagefright_amrnb_common.so
+84208000: loaded /system/lib/libexif_jni.so
+841F8000: loaded /system/lib/libFFmpegExtractor.so
+8319A000: loaded /system/lib/libavcodec.so
+8312B000: loaded /system/lib/libavutil.so
+82F45000: loaded /system/lib/libavformat.so
+82F3B000: loaded /system/lib/libffmpeg_utils.so
+82F19000: loaded /system/lib/libvideoeditor_jni.so
+82EAD000: loaded /system/lib/libaudioflinger.so
+82E94000: loaded /system/lib/libcommon_time_client.so
+82E87000: loaded /system/lib/libnbaio.so
+82E7E000: loaded /system/lib/libeffects.so
+82E0F000: loaded /system/lib/libvideoeditor_core.so
+82E06000: loaded /system/lib/libvideoeditor_osal.so
+82E00000: loaded /system/lib/libvideoeditor_videofilters.so
+82DCA000: loaded /system/lib/libvideoeditorplayer.so
+82DBE000: loaded /system/lib/librs_jni.so
+81291000: loaded /system/lib/libwebviewchromium.so
+81279000: loaded /system/lib/libandroid.so
+81230000: loaded /system/lib/libwilhelm.so
+8122D000: loaded /system/lib/libjnigraphics.so
+81216000: loaded /system/lib/libwebviewchromium_plat_support.so
+B775D000: loaded /system/bin/linker
+Debugger: attached to process /system/bin/app_process (pid=7135)
+IDA is analysing the input file...
+You may start to explore the input file right now.
+Hex-Rays Decompiler plugin has been loaded (v7.0.0.170914)
+  License: 57-BF5F-7D44-11 Jiang Ying, Personal license (1 user)
+  The hotkeys are F5: decompile, Ctrl-F5: decompile all.
+  Please check the Edit/Plugins menu for more informaton.
+IDAPython Hex-Rays bindings initialized.
+================================================================================
+Keypatch v2.2 (c) Nguyen Anh Quynh & Thanh Nguyen, 2016
+Keypatch is using Keystone v0.9.1
+Keypatch Patcher's shortcut key is Ctrl-Alt-K
+Use the same hotkey Ctrl-Alt-K to open 'Fill Range' window on a selected range of code
+To revert (undo) the last patching, choose menu Edit | Keypatch | Undo last patching
+Keypatch Search is available from menu Edit | Keypatch | Search
+Find more information about Keypatch at http://keystone-engine.org/keypatch
+================================================================================
+-----------------------------------------------------------------------------------------
+Python 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:53:40) [MSC v.1500 64 bit (AMD64)] 
+IDAPython v1.7.0 final (serial 0) (c) The IDAPython Team <idapython@googlegroups.com>
+-----------------------------------------------------------------------------------------
+The initial autoanalysis has been finished.
+7F21D000: loaded /data/data/com.zfl.webapp.view/.jiagu/libjiagu.so
+Debugger: thread 7139 has exited (code 0)
+Debugger: thread 7140 has exited (code 0)
+Debugger: thread 7141 has exited (code 0)
+Debugger: thread 7142 has exited (code 0)
+Debugger: thread 7143 has exited (code 0)
+Debugger: thread 7146 has exited (code 0)
+Debugger: thread 7144 has exited (code 0)
+Debugger: process has exited (exit code 9)
